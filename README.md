@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @0x80070002
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Bonjour/Bonsoir, je suis 0x80070002
+- 👀 Je suis intéressé par tout c'qui est infoSec
+- 🌱 En ce moment j'apprends l'asm
+
+- 📫 Vous pouvez me joindre sur Discord = { (0) }#1337
 
 <!---
 0x80070002/0x80070002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
