@@ -4,6 +4,8 @@
 - 👀 Je suis intéressé par tout c'qui est infoSec
 - 🌱 En ce moment j'apprends l'asm
 - 📫 Vous pouvez me joindre sur [Discord](https://discord.gg/GBYArWMKuv)
+
+
 ![0x80070002 GitHub stats](https://github-readme-stats.vercel.app/api?username=0x80070002&show_icons=true&theme=radical)
 
            
