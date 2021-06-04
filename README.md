@@ -4,8 +4,8 @@
 - 👀 Je suis intéressé par tout c'qui est infoSec
 - 🌱 En ce moment j'apprends l'asm
 - 📫 Vous pouvez me joindre sur [Discord](https://discord.gg/GBYArWMKuv)
+![0x80070002 GitHub stats](https://github-readme-stats.vercel.app/api?username=0x80070002&show_icons=true&theme=radical)
 
-![Les statistiques de 0x80070002(https://github-readme-stats.vercel.app/api?username=0x80070002&show_icons=true&hide["prs","issues","contribs"])
            
 <!---
 0x80070002/0x80070002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
