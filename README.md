@@ -6,6 +6,22 @@
 - 📫 Vous pouvez me joindre sur [Discord](https://discord.gg/GBYArWMKuv)
 
 
+```js
+const 0x80070002 = {
+    name: "d(0)" | "0x80070002",
+    reseaux: {
+            insta: ["Privé"],
+            snap: ["dozzyxdelta"]
+        },
+        Dev: {
+        
+        languages-M: ["JS", "lua"]
+        languages-L: ["ruby", "python", "TypeScript"]
+        
+        }
+};
+```
+
 ![0x80070002 GitHub stats](https://github-readme-stats.vercel.app/api?username=0x80070002&show_icons=true&theme=radical)
 
            
