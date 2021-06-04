@@ -5,6 +5,8 @@
 - 🌱 En ce moment j'apprends l'asm
 - 📫 Vous pouvez me joindre sur [Discord](https://discord.gg/GBYArWMKuv)
 
+![Les statistiques de 0x80070002(https://github-readme-stats.vercel.app/api?username=0x80070002&show_icons=true&hide["prs","issues","contribs"])
+           
 <!---
 0x80070002/0x80070002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
