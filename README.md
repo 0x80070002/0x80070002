@@ -1,53 +1,34 @@
-# ![emichel](https://github.com/0x80070002/0x80070002/blob/main/15a2f4f771138ce5e0628c7295b2ea2e.png)
+<h1 align="center">Salut, moi c'est 0x80070002 👋</h1>
 
-- 👋 Bonjour/Bonsoir, je suis 0x80070002
-- 👀 Je suis intéressé par tout c'qui est infoSec
+## Présentation rapide
+
+- 🔭 Je suis intéressé par tout c'qui est infoSec
 - 🌱 En ce moment j'apprends l'asm
-- 📫 Vous pouvez me joindre sur [Discord](https://discord.gg/GBYArWMKuv)
+- 💬 Beaucoup de travaux arrivent pour 2021 (ça reste secret ça).
 
+### Réseaux:
 
+[<img align="left" alt="Discord | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
+<br />
 
+### Languages et Outils:
 
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudiocode]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
+[<img align="left" alt="Java" width="26px" src="https://sdtimes.com/wp-content/uploads/2018/03/jW4dnFtA_400x400.jpg" />][java]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 
+<br />
+<br />
 
-```js
-const 0x80070002 = {
-    name: "d(0)" | "0x80070002",
-    reseaux: {
-            insta: ["Privé"],
-            snap: ["dozzyxdelta"]
-        },
-        Dev: {
-        
-        languages-M: ["JS", "lua"]
-        languages-L: ["ruby", "python", "TypeScript"]
-        
-        }
-};
-```
-
-
-
-
-
-
-
-
-
-![0x80070002 GitHub stats](https://github-readme-stats.vercel.app/api?username=0x80070002&show_icons=true&theme=radical)
-
-
-
-
-
-
-
-
-
+---
 
 [website]: https://kekma.net
-[twitter]: https://twitter.com/Mvskoo_
 [visualstudiocode]: https://code.visualstudio.com/
 [html]: https://fr.wikipedia.org/wiki/Hypertext_Markup_Language
 [css]: https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade
@@ -57,10 +38,3 @@ const 0x80070002 = {
 [mysql]: https://www.mysql.com/fr/
 [java]: https://www.java.com/fr/
 [discord]: https://discord.gg/tropicofr
-
-
-
-<!---
-0x80070002/0x80070002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
