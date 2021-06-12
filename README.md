@@ -37,7 +37,29 @@ const 0x80070002 = {
 
 ![0x80070002 GitHub stats](https://github-readme-stats.vercel.app/api?username=0x80070002&show_icons=true&theme=radical)
 
-           
+
+
+
+
+
+
+
+
+
+[website]: https://kekma.net
+[twitter]: https://twitter.com/Mvskoo_
+[visualstudiocode]: https://code.visualstudio.com/
+[html]: https://fr.wikipedia.org/wiki/Hypertext_Markup_Language
+[css]: https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade
+[javascript]: https://fr.wikipedia.org/wiki/JavaScript
+[nodejs]: https://nodejs.org/fr/
+[sql]: https://fr.wikipedia.org/wiki/Structured_Query_Language
+[mysql]: https://www.mysql.com/fr/
+[java]: https://www.java.com/fr/
+[discord]: https://discord.gg/tropicofr
+
+
+
 <!---
 0x80070002/0x80070002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
